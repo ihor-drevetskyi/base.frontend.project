@@ -1941,16 +1941,16 @@
         },
         {
             "name": "ihor-drevetskyi/component",
-            "version": "v1.0.0",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ihor-drevetskyi/component.git",
-                "reference": "2421007f3c126bfc6cdf67333084cbda2f82022c"
+                "reference": "e58d7c3c5270e180dd5505abbc08297b38a7cf15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ihor-drevetskyi/component/zipball/2421007f3c126bfc6cdf67333084cbda2f82022c",
-                "reference": "2421007f3c126bfc6cdf67333084cbda2f82022c",
+                "url": "https://api.github.com/repos/ihor-drevetskyi/component/zipball/e58d7c3c5270e180dd5505abbc08297b38a7cf15",
+                "reference": "e58d7c3c5270e180dd5505abbc08297b38a7cf15",
                 "shasum": ""
             },
             "require": {
@@ -1977,7 +1977,6 @@
                 "symfony/framework-bundle": "4.4.*|5.3.*",
                 "symfony/intl": "4.4.*|5.3.*",
                 "symfony/orm-pack": "^2.1",
-                "symfony/runtime": "4.4.*|5.3.*",
                 "symfony/security-bundle": "4.4.*|5.3.*",
                 "symfony/serializer-pack": "^1.0",
                 "symfony/translation": "4.4.*|5.3.*",
@@ -2020,9 +2019,9 @@
             ],
             "support": {
                 "issues": "https://github.com/ihor-drevetskyi/component/issues",
-                "source": "https://github.com/ihor-drevetskyi/component/tree/v1.0.0"
+                "source": "https://github.com/ihor-drevetskyi/component/tree/v1.0.2"
             },
-            "time": "2021-08-11T22:23:41+00:00"
+            "time": "2021-08-13T22:59:08+00:00"
         },
         {
             "name": "ihor-drevetskyi/page",

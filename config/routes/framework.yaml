@@ -1,2 +1,0 @@
-dev_framework:
-  resource: "@ComponentBundle/Resources/config/routes/framework.yaml"

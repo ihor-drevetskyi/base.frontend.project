@@ -1,2 +1,0 @@
-imports:
-  - { resource: '@ComponentBundle/Resources/config/packages/monolog.yaml' }

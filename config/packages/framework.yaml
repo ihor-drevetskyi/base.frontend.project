@@ -1,2 +1,3 @@
 imports:
   - { resource: '@ComponentBundle/Resources/config/packages/framework.yaml' }
+  - { resource: '@ComponentBundle/Resources/config/packages5/framework.yaml' }
