@@ -1,0 +1,16 @@
+{% apply spaceless %}
+    <!DOCTYPE html>
+    <html lang="{% if app.request.locale == 'ru' %}ru_RU{% elseif app.request.locale == 'en' %}en_US{% elseif app.request.locale == 'uk' %}ua_UA{% endif %}">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        {% include '@SeoCommon/_head_meta.html.twig' %}
+        <!-- Stylesheets -->
+        {% block stylesheets %}{% endblock %}
+    </head>
+    <body>
+    {% block body %}{% endblock %}
+    <!-- JavaScripts -->
+    {% block javascripts %}{% endblock %}
+    </body>
+    </html>
+{% endapply %}

@@ -1,0 +1,2 @@
+dev_web_profiler:
+  resource: "@ComponentBundle/Resources/config/routes/web_profiler.yaml"

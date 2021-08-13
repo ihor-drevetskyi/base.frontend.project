@@ -1,0 +1,2 @@
+imports:
+  - { resource: '@ComponentBundle/Resources/config/packages/vich_uploader.yaml' }
