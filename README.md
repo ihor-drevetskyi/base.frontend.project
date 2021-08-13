@@ -2,12 +2,6 @@
     Base frontend project [Symfony]
 </h1>
 
-<div align="center">
-
-[![License](https://poser.pugx.org/ihor-drevetskyi/dashboard/license)](//packagist.org/packages/ihor-drevetskyi/dashboard)
-
-</div>
-
 Documentation
 -------------
 
