@@ -1,2 +1,2 @@
 imports:
-  - { resource: '@ComponentBundle/Resources/config/packages/prod/framework.yaml' }
+  - { resource: '@ComponentBundle/Resources/config/packages/prod/doctrine.yaml' }
