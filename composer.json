@@ -79,5 +79,6 @@
       "allow-contrib": false,
       "require": "5.3.*"
     }
-  }
+  },
+  "repositories": []
 }
